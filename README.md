@@ -1,4 +1,4 @@
-## Oi, eu sou o Emerson Barros!
+## Oi, sou o Emerson Barros!
 
 - 🔭 Atuamente trabalho com front-end
 - 🌱 Estudando Angular
