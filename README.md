@@ -1,6 +1,6 @@
 ## Oi, sou o Emerson Barros!
 
-- 🔭 Atuamente trabalho com front-end
+- 🔭 Atualmente trabalho com front-end
 - 🌱 Estudando Angular
 - 😄 Pronouns: ele/dele
 
