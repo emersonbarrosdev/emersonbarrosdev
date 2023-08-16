@@ -4,7 +4,7 @@
 - 🌱 Estudando Angular
 - 😄 Pronouns: ele/dele
 
-<div align="center">
+<div>
   <a href="https://www.linkedin.com/in/emersonbarrosdev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emersonbarrosdev&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emersonbarrosdev&layout=compact&langs_count=7&theme=synthwave"/>
